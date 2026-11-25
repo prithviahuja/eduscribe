@@ -1,0 +1,20 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
+fastapi
+uvicorn[standard]
+python-multipart
+httpx
+transformers
+sentence-transformers
+faster-whisper
+groq
+google-genai
+librosa
+soundfile
+numpy
+pydub
+audioop-lts; python_version >= "3.13"
+PyMuPDF
+python-pptx
+supabase
+python-dotenv
